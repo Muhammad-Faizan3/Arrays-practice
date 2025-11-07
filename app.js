@@ -138,8 +138,9 @@
 // let fruits = ["Apple","Banana","Kiwi","Orange","Mango"];
 // console.log(fruits.slice(1,4) );
 
-
+// practice Question
 // let fruits = ["Apple","Banana","Kiwi","Orange","Mango"];
+// fruits.shift()
 // fruits.splice(3,1,"uppe");
 // fruits.push("faizan");
 // console.log(fruits);
